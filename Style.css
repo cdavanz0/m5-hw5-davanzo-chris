@@ -1,7 +1,8 @@
 body {
 	background-color: #e5e2db;
+	color: black
 	max-width: 800px;
-	margin: 24px auto;
+	margin: auto;
 }
 
 img {
