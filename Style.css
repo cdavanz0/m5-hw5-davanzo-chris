@@ -2,18 +2,28 @@ body {
 	background-color: #e5e2db;
 	max-width: 900px;
 	margin: 24px auto;
-	}
+}
+
+img {
+	float: right; 
+}
+
 header {
 	margin: 35px 0;
 	font-size: 68px;
-	}
-img {
-	float: right; 
-	}
+	float: left;
+}
+
+article {
+	float: left;
+	max-width: 700px;
+}
+
 nav {
 	display: block; auto
 	text-align: center; auto
-	}
+}
+
 img {
 	display: block;
 	margin-left: auto;
