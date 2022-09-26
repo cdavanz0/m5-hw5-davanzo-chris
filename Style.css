@@ -5,6 +5,11 @@ body {
 	margin: auto;
 }
 
+nav {
+	display: block;
+	text-align: center;
+}
+
 img {
 	float: right;
 	width: 300px;
@@ -18,12 +23,27 @@ header {
 	float: left;
 }
 
-nav {
-	display: block;
+section.introduction {
+	float: left;
+	max-width: 700px;
 	text-align: center;
+	font-size: 40px;
 }
 
-main {
+section.about {
+	float: left;
+	max-width: 700px;
+	text-align: center;
+	font-size: 20px;
+}
+
+section.portfolio {
+	float: left;
+	max-width: 700px;
+	text-align: center;
+	font-size: 20px;
+
+section.contact {
 	float: left;
 	max-width: 700px;
 	text-align: center;
