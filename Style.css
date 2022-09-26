@@ -11,27 +11,27 @@ nav {
 
 img {
 	float: right;
-	max-width: 800px;
+	max-width: 450px;
 }
 
 .introduction {
 	float: left;
 	max-width: 700px;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 }
 
 .about {
 	float: left;
 	max-width: 700px;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 }
 
 .portfolio {
 	float: left;
 	max-width: 700px;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
 }
 
