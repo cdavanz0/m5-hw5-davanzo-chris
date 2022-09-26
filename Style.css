@@ -7,10 +7,10 @@ header {
 	margin: 35px 0;
 	font-size: 68px;
 	}
-h2 {
-	color: red;
+img {
+	float: left; 
 	}
-aside nav a {
+nav {
 	display: block; auto
 	text-align: center; auto
 	}
