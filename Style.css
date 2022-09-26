@@ -14,30 +14,9 @@ img {
 	max-width: 450px;
 }
 
-.introduction {
+section {
 	float: left;
 	max-width: 700px;
 	text-align: left;
-	font-size: 20px;
-}
-
-.about {
-	float: left;
-	max-width: 700px;
-	text-align: left;
-	font-size: 20px;
-}
-
-.portfolio {
-	float: left;
-	max-width: 700px;
-	text-align: left;
-	font-size: 20px;
-}
-
-.contact {
-	float: left;
-	max-width: 700px;
-	text-align: center;
 	font-size: 20px;
 }
