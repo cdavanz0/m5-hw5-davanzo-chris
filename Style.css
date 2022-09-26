@@ -19,11 +19,11 @@ header {
 }
 
 nav {
-	display: block; auto
-	text-align: center; auto
+	display: block;
+	text-align: center;
 }
 
-article {
+section {
 	float: left;
 	max-width: 700px;
 }
