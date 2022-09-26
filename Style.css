@@ -30,20 +30,21 @@ section.introduction {
 	font-size: 40px;
 }
 
-section.about {
+.about {
 	float: left;
 	max-width: 700px;
 	text-align: center;
 	font-size: 20px;
 }
 
-section.portfolio {
+.portfolio {
 	float: left;
 	max-width: 700px;
 	text-align: center;
 	font-size: 20px;
+}
 
-section.contact {
+.contact {
 	float: left;
 	max-width: 700px;
 	text-align: center;
