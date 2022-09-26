@@ -9,6 +9,10 @@ header {
 	font-size: 36px;
 	}
 
-a {
-	color: cornflowerblue;
-
+h2 {
+	color: red;
+	}
+aside nav a {
+	display: block;
+	text align: center;
+	}
