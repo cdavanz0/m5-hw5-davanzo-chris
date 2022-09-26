@@ -1,14 +1,13 @@
 body {
 	background color: gray;
-	max-width: 900px;
-	margin: auto;
+	max-width: 800px;
+	margin: 24px auto;
 	}
 
 header {
 	margin: 35px 0;
 	font-size: 36px;
 	}
-
 h2 {
 	color: red;
 	}
