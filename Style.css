@@ -1,6 +1,6 @@
 body {
 	background color: gray;
-	max-width: 800px;
+	max-width: 900px;
 	margin: 24px auto;
 	}
 background {
@@ -9,7 +9,7 @@ background {
 	}
 header {
 	margin: 35px 0;
-	font-size: 36px;
+	font-size: 68px;
 	}
 h2 {
 	color: red;
