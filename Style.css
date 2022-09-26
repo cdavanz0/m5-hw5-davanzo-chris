@@ -1,8 +1,7 @@
-body {
-	background-color: #e5e2db;
-	color: black
+h1 {
 	max-width: 800px;
 	margin: auto;
+	text-align: center;
 }
 
 nav {
@@ -10,17 +9,8 @@ nav {
 	text-align: center;
 }
 
-img {
-	float: right;
-	width: 300px;
-	border: 3px solid #73AD21;
-	padding: 10px;
-}
-
 header {
-	margin: 35px 0;
-	font-size: 68px;
-	float: left;
+	float: right;
 }
 
 .introduction {
