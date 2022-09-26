@@ -1,19 +1,12 @@
-#h1 {
+h1 {
 	max-width: 800px;
 	margin: auto;
 	text-align: center;
 }
 
-#nav {
+nav {
 	display: block;
 	text-align: center;
-}
-
-#h2 {
-	float: left;
-	max-width: 700px;
-	text-align: center;
-	font-size: 20px;
 }
 
 .introduction {
