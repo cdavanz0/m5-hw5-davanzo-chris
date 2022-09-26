@@ -12,6 +12,11 @@ h2 {
 	color: red;
 	}
 aside nav a {
-	display: block;
-	text align: center;
+	display: block; auto
+	text align: center; auto
 	}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
