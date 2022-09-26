@@ -23,15 +23,8 @@ nav {
 	text-align: center;
 }
 
-section {
+main: {
 	float: left;
 	max-width: 700px;
 	text-align: center;
 	font-size: 20px;
-}
-
-main::after {
-	content: "";
-	clear: both;
-	display: block;
-}	
