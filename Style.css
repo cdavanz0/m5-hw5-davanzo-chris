@@ -24,6 +24,12 @@ nav {
 	text-align: center; auto
 }
 
+main::after {
+	content: "";
+	clear: both;
+	display: block;
+}	
+
 img {
 	display: block;
 	margin-left: auto;
